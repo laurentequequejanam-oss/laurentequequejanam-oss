@@ -9,7 +9,7 @@
 </p>
 <br>
 
-🌰 About Me
+##🌰 About Me
 
 <div align="center">
 ╭ ───────── 🤎 ───────── ╮
@@ -21,7 +21,6 @@
 🌱 Currently sharpening statistics & end-to-end analytics projects
 
 ╰ ───────── 🤎 ───────── ╯
-
 </div>
 <p align="center">
   <i>"Turning raw data into decisions, one query at a time." ☕</i>
@@ -76,10 +75,10 @@
 
 <div align="center">
 
-📈 Building an end-to-end data analysis portfolio
-🔍 Practicing SQL + Power BI + Python on real datasets
-📐 Strengthening statistics for the leap into data science
-💼 Applying for data analyst internships
+📈 Building an end-to-end data analysis portfolio<br>
+🔍 Practicing SQL + Power BI + Python on real datasets<br>
+📐 Strengthening statistics for the leap into data science<br>
+💼 Applying for data analyst internships<br>
 
 </div>
 
