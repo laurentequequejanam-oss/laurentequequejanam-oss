@@ -39,13 +39,6 @@ Mostrar imagen
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentequequejanam-oss&layout=compact&theme=radical&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentequequejanam-oss&theme=radical&hide_border=true" />
 </div>
-🚀 Proyectos destacados
-
-<!-- Reemplaza esto por tus proyectos reales cuando los subas -->
-
-🔗 [nombre-del-proyecto] — breve descripción del análisis y las herramientas usadas
-🔗 [nombre-del-proyecto] — breve descripción del análisis y las herramientas usadas
-
 
 📫 Conectemos
 
