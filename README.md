@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8B5E3C&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions+%F0%9F%A4%8E;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;From+UX+design+to+data+analysis;Always+learning%2C+always+curious+%E2%98%95" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6CA,100:8B5E3C&height=180&section=header&text=Hi,%20I'm%20Mariana%20%F0%9F%A4%8E&fontSize=38&fontColor=4A3728&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
