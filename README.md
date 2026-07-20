@@ -9,21 +9,24 @@
 </p>
 <br>
 
-## 🌰 About Me
+🌰 About Me
 
 <div align="center">
-
 ╭ ───────── 🤎 ───────── ╮
 
-🎓 Systems Engineering student (8th cycle), Peru
-📊 Building my path from data analyst to data scientist
-🎨 Background in UX design — I care how data is *presented*, not just calculated
-☕ Fueled by coffee and curiosity
+🎓 Systems Engineering student (8th cycle), Peru<br>
+📊 Building my path from data analyst to data scientist<br>
+🎨 Background in UX design — I care how data is presented, not just calculated<br>
+☕ Fueled by coffee and curiosity<br>
 🌱 Currently sharpening statistics & end-to-end analytics projects
 
 ╰ ───────── 🤎 ───────── ╯
 
 </div>
+<p align="center">
+  <i>"Turning raw data into decisions, one query at a time." ☕</i>
+</p>
+<br>
 
 <p align="center">
   <i>"Turning raw data into decisions, one query at a time." ☕</i>
