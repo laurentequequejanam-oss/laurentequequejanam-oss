@@ -82,22 +82,24 @@
 
 <!-- Replace with your real links -->
 <div align="center">
-
 <a href="https://linkedin.com/in/mariana-laurente-quequejana">
 <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=FFF8E7"/>
 </a>
 <a href="https://github.com/laurentequequejanam-oss">
 <img src="https://img.shields.io/badge/GitHub-4A3728?style=for-the-badge&logo=github&logoColor=FFF8E7"/>
 </a>
-
+<a href="https://twitter.com/Clover_Larent">
+<img src="https://img.shields.io/badge/Twitter-A47148?style=for-the-badge&logo=x&logoColor=FFF8E7"/>
+</a>
+<a href="https://instagram.com/knighttime_cinnamon">
+<img src="https://img.shields.io/badge/Instagram-C9A66B?style=for-the-badge&logo=instagram&logoColor=FFF8E7"/>
+</a>
 </div>
-
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&label=Profile%20Views&color=8B5E3C&style=flat"/>
 </div>
 <br>
-
 <div align="center">
 🤎 🍂 🤎 🍂 🤎 🍂 🤎
 </div>
