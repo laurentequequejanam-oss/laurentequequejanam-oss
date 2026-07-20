@@ -27,12 +27,6 @@
 </p>
 <br>
 
-<p align="center">
-  <i>"Turning raw data into decisions, one query at a time." ☕</i>
-</p>
-
-<br>
-
 ## 💻 Tech Stack
 
 <div align="center">
