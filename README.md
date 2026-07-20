@@ -2,7 +2,7 @@
   <img src="Assets/banner.png" width="100%" />
   </p>
 <h3 align="center">
-☕ HI, I'M MARTIANA ☕
+☕ HI, I'M MARIANA LAURENTE ☕
 </h3>
 <p align="center">
 </p>
