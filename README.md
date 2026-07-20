@@ -51,8 +51,7 @@ Mostrar imagen
 
 <!-- Reemplaza el enlace de LinkedIn y el correo por los tuyos, o borra la línea si prefieres no mostrarlos -->
 <div align="center">
-Mostrar imagen
-Mostrar imagen
+
 
 <img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
 </div>
