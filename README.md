@@ -82,7 +82,7 @@
 
 <!-- Replace with your real links -->
 <div align="center">
-<a href="https://linkedin.com/in/mariana-laurente-quequejana">
+<a href="https://linkedin.com/in/mariana-laurente-quequejana-5b042b335/">
 <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=FFF8E7"/>
 </a>
 <a href="https://github.com/laurentequequejanam-oss">
