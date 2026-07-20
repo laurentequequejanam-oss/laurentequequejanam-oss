@@ -21,12 +21,10 @@ Análisis de datos & BI
 Mostrar imagen
 Mostrar imagen
 Mostrar imagen
-Mostrar imagen
 
 Desarrollo & herramientas
 
-Mostrar imagen
-Mostrar imagen
+
 Mostrar imagen
 Mostrar imagen
 Mostrar imagen
