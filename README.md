@@ -1,5 +1,10 @@
 <p align="center">
   <img src="Assets/banner.png" width="100%" />
+  </p>
+<h3 align="center">
+☕ HI, I'M MARTIANA ☕
+</h3>
+<p align="center">
 </p>
 <h3 align="center">
 🍂 Systems Engineering Student • Aspiring Data Analyst • UX-curious 🍂
