@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="Assets/banner.png" width="100%" />
 </p>
 <h3 align="center">
 🍂 Systems Engineering Student • Aspiring Data Analyst • UX-curious 🍂
