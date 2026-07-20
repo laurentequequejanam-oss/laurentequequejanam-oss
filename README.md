@@ -40,18 +40,12 @@
 <!-- IMPORTANTE: reemplaza TU-USUARIO por tu usuario real de GitHub en las 3 líneas de abajo -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laurentequequejanam-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentequequejanam-oss&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentequequejanam-oss&theme=radical&hide_border=true" />
 
 </div>
-
-## 🚀 Proyectos destacados
-
-<!-- Reemplaza esto por tus proyectos reales cuando los subas -->
-- 🔗 **[nombre-del-proyecto]** — breve descripción del análisis y las herramientas usadas
-- 🔗 **[nombre-del-proyecto]** — breve descripción del análisis y las herramientas usadas
 
 ## 📫 Conectemos
 
@@ -61,7 +55,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
 
-<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
+<img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
 
 </div>
 
