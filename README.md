@@ -17,19 +17,11 @@
 🧰 Stack y herramientas
 
 Análisis de datos & BI
-
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-
+<div align="center">
+<img height="165" src="[https://github-readme-stats.vercel.app/api?username=laurentequequejanam-oss&show_icons=true&theme=radical&hide_border=true&count_private=true](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" />
+  </div>
 Desarrollo & herramientas
 
-
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
 
 📈 Estadísticas de GitHub
 
