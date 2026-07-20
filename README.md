@@ -1,62 +1,119 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6CA,100:8B5E3C&height=180&section=header&text=Hi,%20I'm%20Mariana%20%F0%9F%A4%8E&fontSize=38&fontColor=4A3728&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<h3 align="center">
+🍂 Systems Engineering Student • Aspiring Data Analyst • UX-curious 🍂
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=8B5E3C&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions+%F0%9F%A4%8E;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;From+UX+design+to+data+analysis;Always+learning%2C+always+curious+%E2%98%95" />
+</p>
+
+<br>
+
+## 🌰 About Me
+
 <div align="center">
 
-<!-- Banner con degradado en onda -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=180&section=header&text=%C2%A1Hola,%20soy%20Mariana!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+╭ ───────── 🤎 ───────── ╮
 
-<!-- Texto con animación de escritura -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;En+camino+de+Analista+a+Cient%C3%ADfica+de+Datos;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
+🎓 Systems Engineering student (8th cycle), Peru
+📊 Building my path from data analyst to data scientist
+🎨 Background in UX design — I care how data is *presented*, not just calculated
+☕ Fueled by coffee and curiosity
+🌱 Currently sharpening statistics & end-to-end analytics projects
+
+╰ ───────── 🤎 ───────── ╯
 
 </div>
 
-## 👋 Sobre mí
+<p align="center">
+  <i>"Turning raw data into decisions, one query at a time." ☕</i>
+</p>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (8vo ciclo)
-- 📊 Construyendo mi camino de **analista de datos** hacia **científica de datos**
-- 🎨 Vengo del diseño UX, así que además de analizar datos, me importa cómo se comunican
-- 🌱 Reforzando estadística y armando proyectos de análisis de principio a fin
-- 💬 Pregúntame sobre SQL, Power BI, Excel avanzado o experiencia de usuario
+<br>
 
-## 🧰 Stack y herramientas
+## 💻 Tech Stack
 
-**Análisis de datos & BI**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Desarrollo & herramientas**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-## 📈 Estadísticas de GitHub
-
-<!-- IMPORTANTE: reemplaza TU-USUARIO por tu usuario real de GitHub en las 3 líneas de abajo -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laurentequequejanam-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentequequejanam-oss&layout=compact&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,figma"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentequequejanam-oss&theme=radical&hide_border=true" />
+<br><br>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-D8C3A5?style=for-the-badge&logo=microsoftsqlserver&logoColor=4A3728)
+![Power BI](https://img.shields.io/badge/Power_BI-F5E6CA?style=for-the-badge&logo=powerbi&logoColor=4A3728)
+![Excel](https://img.shields.io/badge/Excel-E8D9C5?style=for-the-badge&logo=microsoftexcel&logoColor=4A3728)
+![Figma](https://img.shields.io/badge/Figma-C9A66B?style=for-the-badge&logo=figma&logoColor=FFF8E7)
 
 </div>
 
-## 📫 Conectemos
+<br>
 
-<!-- Reemplaza el enlace de LinkedIn y el correo por los tuyos, o borra la línea si prefieres no mostrarlos -->
+## 📊 GitHub Activity
+
+<!-- Replace YOUR-GITHUB-USERNAME below (appears 3 times total in this file) with your real GitHub username -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
-
-<img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laurentequequejanam-oss&bg_color=FFF8E7&color=8B5E3C&line=A47148&point=4A3728&area=true&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=100&section=footer" width="100%"/>
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ylaurentequequejanam-oss&background=FFF8E7&ring=8B5E3C&fire=A47148&currStreakLabel=4A3728&sideLabels=4A3728&currStreakNum=4A3728&sideNums=4A3728&dates=8B7355&hide_border=true"/>
+
+</div>
+
+<br>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+📈 Building an end-to-end data analysis portfolio
+🔍 Practicing SQL + Power BI + Python on real datasets
+📐 Strengthening statistics for the leap into data science
+💼 Applying for data analyst internships
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<!-- Replace with your real links -->
+<div align="center">
+
+<a href="https://linkedin.com/in/mariana-laurente-quequejana">
+<img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=FFF8E7"/>
+</a>
+<a href="https://github.com/laurentequequejanam-oss">
+<img src="https://img.shields.io/badge/GitHub-4A3728?style=for-the-badge&logo=github&logoColor=FFF8E7"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&label=Profile%20Views&color=8B5E3C&style=flat"/>
+</div>
+
+<br>
+
+<div align="center">
+🤎 🍂 🤎 🍂 🤎 🍂 🤎
+</div>
+
+<br>
+
+<div align="center">
+<h3>☕ Thanks for stopping by ☕</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,100:F5E6CA&height=120&section=footer"/>
+</div>
