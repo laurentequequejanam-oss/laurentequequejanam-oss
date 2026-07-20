@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ylaurentequequejanam-oss&background=FFF8E7&ring=8B5E3C&fire=A47148&currStreakLabel=4A3728&sideLabels=4A3728&currStreakNum=4A3728&sideNums=4A3728&dates=8B7355&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=laurentequequejanam-oss&background=FFF8E7&ring=8B5E3C&fire=A47148&currStreakLabel=4A3728&sideLabels=4A3728&currStreakNum=4A3728&sideNums=4A3728&dates=8B7355&hide_border=true"/>
 
 </div>
 
