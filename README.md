@@ -37,9 +37,9 @@ Mostrar imagen
 
 <!-- IMPORTANTE: reemplaza TU-USUARIO por tu usuario real de GitHub en las 3 líneas de abajo -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laurentequequejanam-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurentequequejanam-oss&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laurentequequejanam-oss&theme=radical&hide_border=true" />
 </div>
 🚀 Proyectos destacados
 
@@ -56,6 +56,6 @@ Mostrar imagen
 Mostrar imagen
 Mostrar imagen
 
-<img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
+<img src="https://komarev.com/ghpvc/?username=laurentequequejanam-oss&color=1D9E75&style=for-the-badge&label=Visitas+al+perfil" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=100&section=footer" width="100%"/>
